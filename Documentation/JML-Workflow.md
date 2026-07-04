@@ -25,8 +25,6 @@ Start-ADSyncSyncCycle -PolicyType Delta
 - Group membership: Finance-Users
 - License applied via group-based licensing (if configured)
 
-### Evidence
-- Screenshot: Marcus in Entra showing sync status, group membership, and license
 
 ---
 
@@ -51,9 +49,6 @@ Document:
 - Access added (Engineering resources)
 - Confirmation that no Finance access remains
 
-### Evidence
-- Before/after group membership screenshots
-- Access change log entry
 
 ---
 
@@ -74,9 +69,6 @@ Document:
 - Verify sign-in blocked
 - Optional: convert mailbox to shared (if Exchange Online)
 
-### Evidence
-- Screenshot of disabled account
-- Screenshot of revoked sessions
 
 ---
 
